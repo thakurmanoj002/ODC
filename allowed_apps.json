@@ -1,0 +1,42 @@
+{
+  "excel": {
+    "app_id": "excel",
+    "display_name": "Microsoft Excel",
+    "executable_name": "EXCEL.EXE",
+    "executable_path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+    "enabled": true,
+    "manageable": true
+  },
+  "word": {
+    "app_id": "word",
+    "display_name": "Microsoft Word",
+    "executable_name": "WINWORD.EXE",
+    "executable_path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+    "enabled": true,
+    "manageable": true
+  },
+  "chrome": {
+    "app_id": "chrome",
+    "display_name": "Google Chrome",
+    "executable_name": "chrome.exe",
+    "executable_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "enabled": true,
+    "manageable": true
+  },
+  "notepad": {
+    "app_id": "notepad",
+    "display_name": "Notepad",
+    "executable_name": "notepad.exe",
+    "executable_path": "C:\\Windows\\notepad.exe",
+    "enabled": true,
+    "manageable": true
+  },
+  "calc": {
+    "app_id": "calc",
+    "display_name": "Calculator",
+    "executable_name": "calc.exe",
+    "executable_path": "C:\\Windows\\System32\\calc.exe",
+    "enabled": true,
+    "manageable": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "controller_id": "CTRL-DDA5C4",
+  "controller_name": "MANOJ-Controller",
+  "refresh_interval_sec": 5,
+  "discovery_enabled": true,
+  "theme": "Light"
+}

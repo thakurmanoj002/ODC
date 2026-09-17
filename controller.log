@@ -1,0 +1,126 @@
+2026-09-17 12:01:31,635 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:01:39,770 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:01:39,980 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:01:39,986 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:01:39,996 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:01:40,018 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:01:55,667 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:01:55,788 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:01:55,794 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:01:55,804 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:01:55,821 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:17,749 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:17,859 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:17,865 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:02:17,875 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:02:17,894 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:32,172 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:32,278 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:32,283 [INFO] controller: Added new computer to database: MANOJ (AGENT-436FA5)
+2026-09-17 12:02:32,284 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:41,902 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:42,006 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:02:42,011 [INFO] controller: Added new computer to database: MANOJ (AGENT-5FC933)
+2026-09-17 12:02:42,013 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:09:44,769 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:09:44,938 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:09:44,943 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:09:44,953 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:09:44,980 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:09:49,938 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:09:50,057 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:09:50,062 [INFO] controller: Added new computer to database: MANOJ (AGENT-ABB3D8)
+2026-09-17 12:09:50,063 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:22:10,891 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:22:11,043 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:22:11,048 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:22:11,059 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:22:11,085 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:22:24,970 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:22:26,969 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:22:26,975 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:22:26,991 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:22:27,021 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:23,909 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:25,169 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:25,174 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:28:25,185 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:28:25,209 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:43,069 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:53,298 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:54,432 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:54,437 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:28:54,445 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:28:54,468 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:28:58,965 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:29:07,442 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:29:15,231 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:42:21,718 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:42:23,414 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:42:23,419 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:42:23,428 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:42:23,455 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:42:36,413 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:42:55,323 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:56:41,620 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:56:44,042 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:56:44,048 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:56:44,059 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:56:44,092 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:08,007 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:10,156 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:10,162 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:57:10,173 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:57:10,205 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:14,181 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:34,292 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:46,534 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:48,508 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:48,513 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 12:57:48,523 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 12:57:48,554 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:57:52,374 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 12:58:13,412 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:14:32,001 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:14:32,074 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:15:51,742 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:15:51,756 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:20:46,835 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:20:46,849 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:24:04,255 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:24:15,181 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:24:27,353 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:25:26,697 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:25:28,903 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:25:28,909 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 17:25:28,919 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 17:25:28,951 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:26:26,287 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:26:26,302 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:27:40,488 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:27:40,501 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:28:47,000 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:28:47,015 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:32:26,786 [INFO] controller: Broadcasted LAN discovery request on UDP port 8766
+2026-09-17 17:35:03,630 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:35:05,968 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:35:05,973 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 17:35:05,983 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 17:35:06,015 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:35:27,607 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:35:27,626 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:36:26,818 [INFO] controller: Added new computer to database: OFFICE SERVER (AGENT-43D2D3)
+2026-09-17 17:41:36,448 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:41:38,647 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:41:38,653 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 17:41:38,662 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 17:41:38,695 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:41:59,352 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:41:59,379 [INFO] controller: Starting LAN Office Control Center (Controller)...
+2026-09-17 17:47:52,193 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:47:54,319 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:47:54,325 [INFO] controller: Added new computer to database: Test-PC-01 (AGENT-TEST1)
+2026-09-17 17:47:54,335 [INFO] controller: Removed computer AGENT-TEST1 from database
+2026-09-17 17:47:54,367 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:49:24,809 [INFO] controller: SQLite database schema migrations executed successfully.
+2026-09-17 17:49:24,825 [INFO] controller: Starting LAN Office Control Center (Controller)...
