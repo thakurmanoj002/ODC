@@ -176,10 +176,16 @@ def main():
     server_thread.start()
     logger.info(f"Agent API server listening on 0.0.0.0:{agent_settings.server_port}")
 
-    # Launch PySide6 GUI for agent setup/status
+    # Launch PySide6 GUI for agent setup/status (Only show window if UNPAIRED or --show-gui is passed)
     app = QApplication(sys.argv)
     window = AgentSetupWindow(discovery_responder)
-    window.show()
+
+    force_gui = "--show-gui" in sys.argv
+    if force_gui or agent_settings.pairing_status != "PAIRED":
+        logger.info("Showing Agent setup window (UNPAIRED or --show-gui passed).")
+        window.show()
+    else:
+        logger.info("Agent is PAIRED. Running silently in background mode.")
 
     ret = app.exec()
     discovery_responder.stop()
